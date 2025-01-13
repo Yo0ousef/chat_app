@@ -33,10 +33,10 @@ class ChatScreen extends StatelessWidget {
                 children: [
                   Image.asset(
                     kLogo,
-                    height: 50,
+                    height: 35,
                   ),
                   Text(
-                    'Scholar Chat',
+                    'Chat',
                     style: TextStyle(color: Colors.white),
                   ),
                 ],
