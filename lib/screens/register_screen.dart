@@ -49,7 +49,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'Scholar Chat',
+                      'Chat',
                       style: TextStyle(
                         fontSize: 32,
                         color: Colors.white,

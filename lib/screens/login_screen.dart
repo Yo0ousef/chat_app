@@ -49,7 +49,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'Scholar Chat',
+                      'Chat',
                       style: TextStyle(
                         fontSize: 32,
                         color: Colors.white,
